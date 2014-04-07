@@ -58,7 +58,7 @@ XP/CAT=nc,G=m,N=s//
 aplicacional/#an/p/
 backup/#nm,ORIG=ing/a/
 bit/#nm,ORIG=ing/p/
-bug/#nm,ORIG=ing/a/
+bug/#nm,ORIG=ing/xyz/
 byte/#nm,ORIG=ing/p/
 chip/#nm,ORIG=ing/a/
 ciber-ataque/AO90=ciberataque,#nm/p
@@ -105,6 +105,7 @@ negrito/$negro$CAT=a_nc,G=m,N=s/p/
 on-line/#hm//
 online/#hm//
 output/#nm,ORIG=ing/p/
+orkut/#nm//
 overflow/#nm,ORIG=ing/a/
 password/#nf,ORIG=ing/a/
 pen/CAT=nc,G=f,N=s,ORIG=ing//
