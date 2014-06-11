@@ -44,6 +44,7 @@
 ;/CAT=punct1b// #noispell
 ?/CAT=puncth// #noispell
 a/$o$CAT=art,CLA=def,G=f,N=s//
+EntryExample
 Lalalar/CAT=v,T=inf,TR=t/EPa
 a/$o$CAT=ppes,G=m,N=s,P=3,C=a$G=f,N=s//
 a/CAT=prep//
